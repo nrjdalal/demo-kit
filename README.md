@@ -52,6 +52,6 @@ brew install vhs        # also installs ttyd
 | Tool | Demos |
 | --- | --- |
 | [gitpick](https://github.com/nrjdalal/gitpick) | `demo` (clone file/folder + tree), `demo-interactive` (`-i` picker) |
-| [inscope](https://github.com/nrjdalal/inscope) | `demo` (interactive add), `demo-switch` (cd identity switch), `demo-manage` (edit + rm) |
+| [inscope](https://github.com/nrjdalal/inscope) | `demo` (interactive add), `demo-slack` (Slack add + Yes/No confirms), `demo-switch` (cd identity switch), `demo-manage` (edit + rm) |
 | [smart-registry](https://github.com/nrjdalal/smart-registry) | `demo` (build a shadcn-compatible registry) |
 | [pglaunch](https://github.com/nrjdalal/pglaunch) | `demo` (disposable Postgres container + URL; needs Docker) |
