@@ -6,10 +6,11 @@ Require node
 
 Set Shell zsh
 Set FontSize 17
-Set Width 1120
-Set Height 900
+Set FontFamily "Berkeley Mono"
+Set Width 1280
+Set Height 640
 Set Padding 22
-Set Theme "Catppuccin Mocha"
+Set Theme "GitHub Dark"
 Set TypingSpeed 55ms
 
 Hide
