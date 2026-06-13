@@ -7,6 +7,11 @@ mkdir -p "$SB"
 export HOME="$SB"
 export XDG_CONFIG_HOME="$SB/.config"
 
+# A personal global git identity, so `add`'s prompts show "global: <value>"; the
+# acme (work) workspace then overrides the email per the demo.
+git config --global user.email "hello@nrjdalal.com"
+git config --global user.name "Neeraj Dalal"
+
 mkdir -p "$SB/bin"
 cat > "$SB/bin/gh" <<'GH'
 #!/bin/bash
